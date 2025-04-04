@@ -1,0 +1,21 @@
+/* ul{
+    list-style-type: none;
+    background-color: aqua;
+    height: 50px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+
+} */
+
+ul{
+    background-color: aquamarine;
+    height: 40px; 
+    list-style-type: none;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    font-size: large;
+    font-style: italic;
+    color: rgb(55, 36, 7);
+}
