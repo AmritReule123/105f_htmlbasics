@@ -1,0 +1,15 @@
+Day 10
+search google => mdn css unit
+
+CSS Unit 
+1.Absolute unit => fixed => px,cm,in
+
+
+
+2. Relative unit => relative unit reponsiveness hunxa rw mobile tera ponee herna melxa
+rem, => depend on html document/root. 1rem = 16px
+em, => jhela pone parent ko fontsize sanga depend hunxa. parent ko fontsize starting ow already 16px maa hunxa. em ley jate dherai parent vaya pone nearest parent herxa .
+vw, => (viewport width) => starting maa jhela ponee 100vw hunxa
+vh, => (view height) => => starting maa jhela ponee 100vh hunxa rw single screen ma jate dekheenxa phela chote tehee hunxa 100vh
+% => ponee relative maa use hunxa
+
