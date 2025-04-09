@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+
+body{
+    background-image: url(./house.jpg), url(./coffee.jpg), url(./map-wold-map-technology-world-wallpaper-preview.jpg);
+    /* background-repeat: no-repeat; */
+    background-repeat: no-repeat, no-repeat, no-repeat;
+    /* background-size: contain; */
+    /* background-size: 50% 900px; */
+    background-size: 300px, 600px, 900px ;
+}
