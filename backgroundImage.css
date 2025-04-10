@@ -1,15 +1,52 @@
 *{
-    margin: 0;
-    padding: 0;
-
+    margin: 0px;
+    padding: 0px;
 }
 
 
-body{
-    background-image: url(./house.jpg), url(./coffee.jpg), url(./map-wold-map-technology-world-wallpaper-preview.jpg);
-    /* background-repeat: no-repeat; */
+
+/* body{
+    background-color: blueviolet !important;
+    background-color: aquamarine;
+    height: 50vh;
+    background-image: url(./coffee.jpg);
+    /* padding-top: 100px;
+    margin-top: 200px;
+    padding-left: 200px; */
+    /* background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; */
+
+/* } */
+
+/* h1{
+    color: red;
+    font-size: 30px;
+    font-style: italic;
+    font-weight: bold;
+} */
+
+/* h4{
+    color: rgb(95, 11, 11, 0.9);
+    font-style: oblique;
+} */ 
+
+
+.main{
+    background-color: burlywood;
+    background-image: url(./coffee.jpg), url(./house.jpg), url(./map-wold-map-technology-world-wallpaper-preview.jpg);
+    height: 40vh, 60vh, 90vh;
     background-repeat: no-repeat, no-repeat, no-repeat;
-    /* background-size: contain; */
-    /* background-size: 50% 900px; */
-    background-size: 300px, 600px, 900px ;
+    background-size: contain;
+    /* background-position: 100%; */
+    display: flex;
+    /* position: absolute; */
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }

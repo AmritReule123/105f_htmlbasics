@@ -1,0 +1,57 @@
+ *{
+    margin: 0;
+    padding: 0; 
+
+} 
+
+
+
+/* body{
+    /* border: 10px solid red;
+    height: 80vh; */
+    /* background-image: url(./house.jpg), url(./coffee.jpg), url(./map-wold-map-technology-world-wallpaper-preview.jpg);
+    background-repeat: no-repeat, no-repeat, no-repeat;
+    background-size: 20%, 40%, 80% ;
+
+} */ 
+
+
+/* .container{
+    background-image: url(./coffee.jpg);
+    background-color: rgb(214, 211, 151) !important;
+    background-color: darkmagenta;
+    height: 70vh;
+    /* padding-top: 500px;
+ padding-bottom: 500px; */
+    /* text-align: center; */
+/* display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+background-blend-mode: multiply;
+} */
+
+/* h1{
+    font-size: 30px;
+    font-style: oblique;
+    font-weight: bold;
+    color: bisque;
+} */
+/* 
+h3{
+    color: burlywood;
+    font-style: oblique;
+} */ 
+
+
+
+/* #carouselExample{
+    height: 50vh;
+} */
+
+.carousel-item{
+    height: 50vh;
+}
